@@ -4,3 +4,4 @@ Created using python wanted to test out my abilities to implement a weather api 
 #Disclaimer
 if you want to use this yourself you have to create an api key with https://www.weatherapi.com 
 they have a paid one and a free one.
+You also need to have the request library downloaded
